@@ -1,5 +1,5 @@
 # Spleeter Remote Container Development
-## This is a repo for plug n play VS Code Remote Container usage of the python library [Spleeter](https://github.com/deezer/spleeter). Run the below commands ot get started.
+## This is a repo for plug n play VS Code Remote Container usage of the python library [Spleeter](https://github.com/deezer/spleeter). Run the below commands to get started.
 
 `git clone https://github.com/AmGarera/spleeter-remote-container-development.git`
 
